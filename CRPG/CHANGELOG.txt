@@ -1,0 +1,34 @@
+﻿Proposed changes for v0.0.3
++ Added CHANGELOG
++ Debug commands
++ Stats for player
++ Inventory
++ Random number 
++ WhereAmI (similar look, when we move, we see the description)
++ Shortcut navigation
++ Location requirement
+
+Version 0.0.3 Completed on   ____2/14/2023____
+
+Proposed changes for v0.0.4
++ Healing each move
++ Add quests to the system
++ Monster Detection
+
+Version 0.0.4 Completed on   ____2/17/2023____
+
+
+Proposed changes for v0.0.5
++ Weapon equipping
++ Attack Engine
++ Last bit of cleanup, abbreviate some of the commands
+- Finish HELP system TODO
+
+Version 0.0.5 Completed on   ____2/21/2023____
+
+Next step... Extend this program.
+
+Proposed changes for v0.0.6
+- Destiny system
+- Revise world layout
+
